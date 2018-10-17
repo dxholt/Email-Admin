@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=fname\ lname
+comment0.target=Email(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ setDept()
+comment2.params=length
+comment2.target=java.lang.String\ randPassword(int)
+comment3.params=capacity
+comment3.target=void\ setCapacity(int)
+comment4.params=altEmail
+comment4.target=void\ setAltEmail(java.lang.String)
+comment5.params=password
+comment5.target=void\ changePwd(java.lang.String)
+comment6.params=
+comment6.target=int\ getCapacity()
+comment7.params=
+comment7.target=java.lang.String\ getAltEmail()
+comment8.params=
+comment8.target=java.lang.String\ getPassword()
+comment9.params=
+comment9.target=java.lang.String\ showInfo()
+numComments=10
